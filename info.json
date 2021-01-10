@@ -1,13 +1,9 @@
 {
-	"life": [
+	"data": [
 		"/posts/life/effective-ways-of-learning",
 		"/posts/life/tips-for-online-learning",
 		"/posts/life/improve-your-problemsolving-skills",
-		"/posts/life/the-importance-of-setting-purposes-for-doing-things"
-	],
-	"technology": [],
-	"books": [
+		"/posts/life/the-importance-of-setting-purposes-for-doing-things",
 		"/posts/books/the-books-that-shaped-my-2019"
-	],
-	"research": []
+	]
 }
